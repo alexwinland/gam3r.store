@@ -1,6 +1,6 @@
 # **Gam3r.store**
 
-<img src=imagensProjeto.png>
+<img src=imagens/Projeto.png>
 
 ## **Visão Geral**
 

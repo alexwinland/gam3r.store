@@ -1,0 +1,4 @@
+GET http://localhost:3005/produtos
+
+###
+GET http://localhost:3005/produtos/23

@@ -1,5 +1,7 @@
 # **Gam3r.store**
 
+<img src=imagensProjeto.png>
+
 ## **Visão Geral**
 
 Este repositório contém o código fonte da aplicação web Gam3r.store, uma loja online especializada em produtos para gamers. O projeto foi desenvolvido com o objetivo de oferecer uma experiência de compra intuitiva e completa para os amantes de games.
